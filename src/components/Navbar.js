@@ -5,6 +5,7 @@ function Navbar(){
     return (
        <header>
            <h1>Adesso Tire & Rubber Company </h1>
+            
        </header>
        
     );
